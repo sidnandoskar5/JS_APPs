@@ -3,4 +3,4 @@ body{background: #f0f1ed;}
 #parallax{position: relative;width: 100%;height: 100vh;overflow: hidden}
 img{width: 100%; height: auto; transition: all 3s; transform: scale(2);}
 .effect{position: absolute; left: 0; right: 0;  bottom: 0; transition: all .4s;}
-.other{height: 1000px;}
+.other{min-height: 1000px; padding: 25px}
